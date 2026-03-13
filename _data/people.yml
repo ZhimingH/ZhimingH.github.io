@@ -29,12 +29,12 @@ wolverine:
 bizhu:
     display_name: "曾颖 Zeng Yin"
     role: grad
-    image: /img/people/lingnan2.jpg
+    image: /img/people/lingnan2.png
 
 kedeng:
     display_name: "廖鸿达 Liao Hongda"
     role: grad
-    image: /img/people/lingnan2.jpg
+    image: /img/people/lingnan2.png
 
 # storm:
 #     display_name: "虚位以待  We need you!"
