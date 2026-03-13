@@ -27,14 +27,14 @@ wolverine:
 
     
 bizhu:
-    display_name: "王昊 Wang Hao"
+    display_name: "曾颖 Zeng Yin"
     role: grad
-    image: /img/people/bizhu.jpg
+    image: /img/people/lingnan2.jpg
 
 kedeng:
-    display_name: "潘颖祥 Pan Yingxiang"
+    display_name: "廖鸿达 Liao Hongda"
     role: grad
-    image: /img/people/kedeng.jpg
+    image: /img/people/lingnan2.jpg
 
 # storm:
 #     display_name: "虚位以待  We need you!"
